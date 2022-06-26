@@ -1,0 +1,1092 @@
+[
+  {
+    "id": 1059,
+    "date": "2022-04-27T15:36:18",
+    "date_gmt": "2022-04-27T07:36:18",
+    "guid": {
+      "rendered": "https://my.mymaxtrax.com/?p=1059"
+    },
+    "modified": "2022-04-27T15:39:25",
+    "modified_gmt": "2022-04-27T07:39:25",
+    "slug": "6-orientasi-keselamatan-safety-orientation",
+    "status": "publish",
+    "type": "post",
+    "link": "https://my.mymaxtrax.com/6-orientasi-keselamatan-safety-orientation/",
+    "title": {
+      "rendered": "6. Orientasi Keselamatan (Safety Orientation) **"
+    },
+    "content": {
+      "rendered": "<div id='vdo20160313versASE323ydB80V8xr1SBghk9vvjRpFdfY93qwBj63841HA2yoIMxJg' style='height:auto;width:1280px;max-width:100%' ></div><script>(function(v,i,d,e,o){v[o]=v[o]||{}; v[o].add = v[o].add || function V(a){(v[o].d=v[o].d||[]).push(a);};if(!v[o].l) { v[o].l=1*new Date(); a=i.createElement(d), m=i.getElementsByTagName(d)[0];a.async=1; a.src=e; m.parentNode.insertBefore(a,m);}})(window,document,'script','https://d1z78r8i505acl.cloudfront.net/playerAssets/1.6.10/vdo.js','vdo');vdo.add({otp: '20160313versASE323ydB80V8xr1SBghk9vvjRpFdfY93qwBj63841HA2yoIMxJg',playbackInfo: 'eyJ2aWRlb0lkIjoiZTdmNTcwZWE5OTMwNDE1NGI5MjFiZjZkODliZmUwOTUifQ==',theme: '9111e0056d664282b368c5558a36f32a',plugins: [{name: 'keyboard',options: {preset: 'default',bindings: {'Left' : (player) => player.seek(player.currentTime - 15),'Right' : (player) => player.seek(player.currentTime + 15),},}}],container: document.querySelector('#vdo20160313versASE323ydB80V8xr1SBghk9vvjRpFdfY93qwBj63841HA2yoIMxJg'),});</script>\n<p>Orientasi Keselamatan:</p>\n<p>Setiap tahun, kemalangan semasa bekerja menyebabkan berjuta-juta kecederaan yang menyakitkan dan kadangkala melemahkan, dan merugikan perniagaan Amerika hampir $90 bilion dolar dalam bil perubatan, kehilangan gaji dan kehilangan produktiviti. Tetapi kebanyakan kejadian ini boleh dicegah.</p>\n<p>Produk &#8220;Orientasi Keselamatan&#8221; SafetyMax membincangkan bahaya biasa berkaitan pekerjaan dan amalan selamat serta peralatan yang boleh digunakan oleh pekerja untuk mengelakkan kecederaan.</p>\n<p>Topik yang diliputi dalam produk termasuk:</p>\n<ul>\n<li>Persediaan mental untuk kerja.</li>\n<li>Pengemasan keselamatan dan pencegahan kemalangan.</li>\n<li>Alat pelindung diri.</li>\n<li>Amalan kerja selamat.</li>\n<li>Bersedia menghadapi kecemasan.</li>\n<li>dan banyak lagi.</li>\n</ul>\n<p>Masa: 17:37</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Orientasi Keselamatan: Setiap tahun, kemalangan semasa bekerja menyebabkan berjuta-juta kecederaan yang menyakitkan dan kadangkala melemahkan, dan merugikan perniagaan Amerika hampir $90 bilion dolar dalam bil perubatan, kehilangan gaji dan kehilangan produktiviti. Tetapi kebanyakan kejadian ini boleh dicegah. Produk &#8220;Orientasi Keselamatan&#8221; SafetyMax membincangkan bahaya biasa berkaitan pekerjaan dan amalan selamat serta peralatan yang boleh digunakan oleh pekerja untuk mengelakkan kecederaan. Topik [&hellip;]<a class=\"more-link\" href=\"https://my.mymaxtrax.com/6-orientasi-keselamatan-safety-orientation/\">read more &raquo;</a></p>",
+      "protected": false
+    },
+    "author": 50,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_genesis_hide_title": false,
+      "_genesis_hide_breadcrumbs": false,
+      "_genesis_hide_singular_image": false,
+      "_genesis_custom_body_class": "",
+      "_genesis_custom_post_class": "",
+      "_genesis_layout": ""
+    },
+    "categories": [
+      10
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/1059"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/users/50"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/comments?post=1059"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/1059/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1062,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/1059/revisions/1062"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/media?parent=1059"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/categories?post=1059"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/tags?post=1059"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1025,
+    "date": "2021-09-14T15:34:19",
+    "date_gmt": "2021-09-14T07:34:19",
+    "guid": {
+      "rendered": "https://my.mymaxtrax.com/?p=1025"
+    },
+    "modified": "2021-09-15T10:22:57",
+    "modified_gmt": "2021-09-15T02:22:57",
+    "slug": "security-in-the-workplace-new",
+    "status": "publish",
+    "type": "post",
+    "link": "https://my.mymaxtrax.com/security-in-the-workplace-new/",
+    "title": {
+      "rendered": "Security (In The Workplace) &#8211; *New"
+    },
+    "content": {
+      "rendered": "<div id='vdo20160313versASE323eVyuFSnYoHpIL74c5u2mMhJjnGazeQayy0YOjZpfCUifB4' style='height:auto;width:1280px;max-width:100%' ></div><script>(function(v,i,d,e,o){v[o]=v[o]||{}; v[o].add = v[o].add || function V(a){(v[o].d=v[o].d||[]).push(a);};if(!v[o].l) { v[o].l=1*new Date(); a=i.createElement(d), m=i.getElementsByTagName(d)[0];a.async=1; a.src=e; m.parentNode.insertBefore(a,m);}})(window,document,'script','https://d1z78r8i505acl.cloudfront.net/playerAssets/1.6.10/vdo.js','vdo');vdo.add({otp: '20160313versASE323eVyuFSnYoHpIL74c5u2mMhJjnGazeQayy0YOjZpfCUifB4',playbackInfo: 'eyJ2aWRlb0lkIjoiNzEzZTQwODZiMDVjNGI5N2FmOTM3OWZjZWNjOWU1M2YifQ==',theme: '9111e0056d664282b368c5558a36f32a',plugins: [{name: 'keyboard',options: {preset: 'default',bindings: {'Left' : (player) => player.seek(player.currentTime - 15),'Right' : (player) => player.seek(player.currentTime + 15),},}}],container: document.querySelector('#vdo20160313versASE323eVyuFSnYoHpIL74c5u2mMhJjnGazeQayy0YOjZpfCUifB4'),});</script>\n<p><strong>Synopsis</strong></p>\n<p>We hear about it almost every day: somewhere something bad has happened in a workplace. An employee has been shot by an angry coworker or estranged spouse, a bomb has been set off and people have been injured, or a company’s computer system has been hacked and the credit card information of millions of customers has been stolen.</p>\n<p>These things don’t just happen “somewhere else”. They can occur in our own city or town…even our own company.</p>\n<p>SafetyMax&#8217;s new Workplace Security course discusses the importance of “workplace security”, how to identify vulnerabilities in your facility, and the types of policies that need to be included in your Workplace Security Program.</p>\n<p>Topics covered in the course include:</p>\n<p>• Identifying security issues and vulnerabilities<br />\n• Strengthening physical security: Doors, glass and locks<br />\n• Strengthening physical security: Lighting, surveillance and alarms<br />\n• Cybersecurity: Safeguarding company information<br />\n• Controlling access and monitoring visitors<br />\n• Dealing with workplace violence<br />\n• … and more</p>\n<p><strong>Time: 23 Minutes</strong></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Synopsis We hear about it almost every day: somewhere something bad has happened in a workplace. An employee has been shot by an angry coworker or estranged spouse, a bomb has been set off and people have been injured, or a company’s computer system has been hacked and the credit card information of millions of customers has been stolen. These [&hellip;]<a class=\"more-link\" href=\"https://my.mymaxtrax.com/security-in-the-workplace-new/\">read more &raquo;</a></p>",
+      "protected": false
+    },
+    "author": 50,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_genesis_hide_title": false,
+      "_genesis_hide_breadcrumbs": false,
+      "_genesis_hide_singular_image": false,
+      "_genesis_custom_body_class": "",
+      "_genesis_custom_post_class": "",
+      "_genesis_layout": ""
+    },
+    "categories": [
+      4
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/1025"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/users/50"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/comments?post=1025"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/1025/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1034,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/1025/revisions/1034"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/media?parent=1025"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/categories?post=1025"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/tags?post=1025"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 972,
+    "date": "2020-11-24T13:58:27",
+    "date_gmt": "2020-11-24T05:58:27",
+    "guid": {
+      "rendered": "https://my.mymaxtrax.com/?p=972"
+    },
+    "modified": "2021-04-26T11:11:39",
+    "modified_gmt": "2021-04-26T03:11:39",
+    "slug": "returning-to-work-managers",
+    "status": "publish",
+    "type": "post",
+    "link": "https://my.mymaxtrax.com/returning-to-work-managers/",
+    "title": {
+      "rendered": "4. Returning to Work During the Coronavirus Pandemic&#8230; for Managers &amp; Supervisors **"
+    },
+    "content": {
+      "rendered": "<div id='vdo20160313versASE323nJFhtY6sQI3cPWZE8U1FLCDhxKzn0d6MsKcm9NUn7tJcRs' style='height:auto;width:1280px;max-width:100%' ></div><script>(function(v,i,d,e,o){v[o]=v[o]||{}; v[o].add = v[o].add || function V(a){(v[o].d=v[o].d||[]).push(a);};if(!v[o].l) { v[o].l=1*new Date(); a=i.createElement(d), m=i.getElementsByTagName(d)[0];a.async=1; a.src=e; m.parentNode.insertBefore(a,m);}})(window,document,'script','https://d1z78r8i505acl.cloudfront.net/playerAssets/1.6.10/vdo.js','vdo');vdo.add({otp: '20160313versASE323nJFhtY6sQI3cPWZE8U1FLCDhxKzn0d6MsKcm9NUn7tJcRs',playbackInfo: 'eyJ2aWRlb0lkIjoiNWZjNDI1NzE5YTkzNDhlODlhMWM2OTViMGEzNjkwNTEifQ==',theme: '9111e0056d664282b368c5558a36f32a',plugins: [{name: 'keyboard',options: {preset: 'default',bindings: {'Left' : (player) => player.seek(player.currentTime - 15),'Right' : (player) => player.seek(player.currentTime + 15),},}}],container: document.querySelector('#vdo20160313versASE323nJFhtY6sQI3cPWZE8U1FLCDhxKzn0d6MsKcm9NUn7tJcRs'),});</script>\n<p><strong>Returning to Work During the Coronavirus Pandemic&#8230;for Managers and Supervisors</strong></p>\n<p>From organizing practical work schedules to implementing COVID-safe policies and practices, returning to the workplace during the coronavirus pandemic creates many new challenges for a company’s managers and supervisors.</p>\n<p>SafetyMax&#8217;s &#8220;Returning to Work During the Coronavirus Pandemic&#8230;for Managers and Supervisors&#8221; courses discuss these challenges and what managers and supervisors can do to address them.</p>\n<p>Topics covered in the courses include:</p>\n<p>• Creating a plan<br />\n• Conducting a &#8220;job risk analysis&#8221;<br />\n• Setting up the workplace<br />\n• Preparing your people<br />\n• … and more</p>\n<p><strong>Time: 25 Mins</strong></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Returning to Work During the Coronavirus Pandemic&#8230;for Managers and Supervisors From organizing practical work schedules to implementing COVID-safe policies and practices, returning to the workplace during the coronavirus pandemic creates many new challenges for a company’s managers and supervisors. SafetyMax&#8217;s &#8220;Returning to Work During the Coronavirus Pandemic&#8230;for Managers and Supervisors&#8221; courses discuss these challenges and what managers and supervisors can [&hellip;]<a class=\"more-link\" href=\"https://my.mymaxtrax.com/returning-to-work-managers/\">read more &raquo;</a></p>",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_genesis_hide_title": false,
+      "_genesis_hide_breadcrumbs": false,
+      "_genesis_hide_singular_image": false,
+      "_genesis_custom_body_class": "",
+      "_genesis_custom_post_class": "",
+      "_genesis_layout": ""
+    },
+    "categories": [
+      4
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/972"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/comments?post=972"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 6,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/972/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 982,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/972/revisions/982"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/media?parent=972"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/categories?post=972"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/tags?post=972"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 968,
+    "date": "2020-11-24T13:55:23",
+    "date_gmt": "2020-11-24T05:55:23",
+    "guid": {
+      "rendered": "https://my.mymaxtrax.com/?p=968"
+    },
+    "modified": "2021-04-26T11:41:47",
+    "modified_gmt": "2021-04-26T03:41:47",
+    "slug": "returning-to-work-employees",
+    "status": "publish",
+    "type": "post",
+    "link": "https://my.mymaxtrax.com/returning-to-work-employees/",
+    "title": {
+      "rendered": "3. Returning to Work During the Coronavirus Pandemic&#8230; for Employees **"
+    },
+    "content": {
+      "rendered": "<div id='vdo20160313versASE32325IG8CEQkFoEnIHquCbxDWCxTtKvOMkZulfHYFQ3CAugRc' style='height:auto;width:1280px;max-width:100%' ></div><script>(function(v,i,d,e,o){v[o]=v[o]||{}; v[o].add = v[o].add || function V(a){(v[o].d=v[o].d||[]).push(a);};if(!v[o].l) { v[o].l=1*new Date(); a=i.createElement(d), m=i.getElementsByTagName(d)[0];a.async=1; a.src=e; m.parentNode.insertBefore(a,m);}})(window,document,'script','https://d1z78r8i505acl.cloudfront.net/playerAssets/1.6.10/vdo.js','vdo');vdo.add({otp: '20160313versASE32325IG8CEQkFoEnIHquCbxDWCxTtKvOMkZulfHYFQ3CAugRc',playbackInfo: 'eyJ2aWRlb0lkIjoiYmQ3MmJhYmE1NTcxNDRiNWIwMzlmMzUwM2Y0YzQyMWYifQ==',theme: '9111e0056d664282b368c5558a36f32a',plugins: [{name: 'keyboard',options: {preset: 'default',bindings: {'Left' : (player) => player.seek(player.currentTime - 15),'Right' : (player) => player.seek(player.currentTime + 15),},}}],container: document.querySelector('#vdo20160313versASE32325IG8CEQkFoEnIHquCbxDWCxTtKvOMkZulfHYFQ3CAugRc'),});</script>\n<p><strong>Returning to Work During the Coronavirus Pandemic&#8230;for Employees</strong></p>\n<p>From organizing a practical work schedule to using COVID-safe policies and practices on the job, returning to the workplace during the coronavirus pandemic creates new challenges for employees at all levels of an organization.</p>\n<p>SafetyMax&#8217;s &#8220;Returning to Work During the Coronavirus Pandemic&#8230;for Employees&#8221; courses discuss these challenges and how employees can address them. Topics covered in the courses include:</p>\n<p>• Getting yourself ready to return to the workplace<br />\n• Your &#8220;new&#8221; facility<br />\n• Working in your &#8220;new&#8221; facility<br />\n• … and more</p>\n<p><strong>Time: 12:43</strong></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Returning to Work During the Coronavirus Pandemic&#8230;for Employees From organizing a practical work schedule to using COVID-safe policies and practices on the job, returning to the workplace during the coronavirus pandemic creates new challenges for employees at all levels of an organization. SafetyMax&#8217;s &#8220;Returning to Work During the Coronavirus Pandemic&#8230;for Employees&#8221; courses discuss these challenges and how employees can address [&hellip;]<a class=\"more-link\" href=\"https://my.mymaxtrax.com/returning-to-work-employees/\">read more &raquo;</a></p>",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_genesis_hide_title": false,
+      "_genesis_hide_breadcrumbs": false,
+      "_genesis_hide_singular_image": false,
+      "_genesis_custom_body_class": "",
+      "_genesis_custom_post_class": "",
+      "_genesis_layout": ""
+    },
+    "categories": [
+      4
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/968"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/comments?post=968"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/968/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 988,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/968/revisions/988"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/media?parent=968"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/categories?post=968"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/tags?post=968"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 963,
+    "date": "2020-10-20T16:07:12",
+    "date_gmt": "2020-10-20T08:07:12",
+    "guid": {
+      "rendered": "https://my.mymaxtrax.com/?p=963"
+    },
+    "modified": "2022-04-27T10:03:50",
+    "modified_gmt": "2022-04-27T02:03:50",
+    "slug": "5-keselamatan-mata-eye-safety-akan-datang-coming-soon",
+    "status": "publish",
+    "type": "post",
+    "link": "https://my.mymaxtrax.com/5-keselamatan-mata-eye-safety-akan-datang-coming-soon/",
+    "title": {
+      "rendered": "5. Keselamatan Mata/ Eye Safety **"
+    },
+    "content": {
+      "rendered": "<div id='vdo20160313versASE323UKFIMXOLy1MQFAbD2xSkJVZWrNJNl7wJ7LqAgylA00Mlj5' style='height:auto;width:1280px;max-width:100%' ></div><script>(function(v,i,d,e,o){v[o]=v[o]||{}; v[o].add = v[o].add || function V(a){(v[o].d=v[o].d||[]).push(a);};if(!v[o].l) { v[o].l=1*new Date(); a=i.createElement(d), m=i.getElementsByTagName(d)[0];a.async=1; a.src=e; m.parentNode.insertBefore(a,m);}})(window,document,'script','https://d1z78r8i505acl.cloudfront.net/playerAssets/1.6.10/vdo.js','vdo');vdo.add({otp: '20160313versASE323UKFIMXOLy1MQFAbD2xSkJVZWrNJNl7wJ7LqAgylA00Mlj5',playbackInfo: 'eyJ2aWRlb0lkIjoiYWNjMTY1ZGFiYzU1NDk3N2FiNGNkOTllYjQzMzI3ZTAifQ==',theme: '9111e0056d664282b368c5558a36f32a',plugins: [{name: 'keyboard',options: {preset: 'default',bindings: {'Left' : (player) => player.seek(player.currentTime - 15),'Right' : (player) => player.seek(player.currentTime + 15),},}}],container: document.querySelector('#vdo20160313versASE323UKFIMXOLy1MQFAbD2xSkJVZWrNJNl7wJ7LqAgylA00Mlj5'),});</script>\n<p>Keselamatan Mata:</p>\n<p>Dianggarkan 24 juta kecederaan mata berlaku di A.S. setiap tahun. Kira-kira 2,000 daripadanya akan berlaku hari ini, dan setiap hari selepas itu, semasa orang bekerja. Terlalu banyak daripada mereka akan menyebabkan mangsa kehilangan sebahagian atau keseluruhan penglihatan mereka. Tetapi kecederaan mata boleh dielakkan.</p>\n<p>Produk latihan SafetyMax tentang &#8220;Keselamatan Mata&#8221; memberikan pekerja maklumat yang mereka perlukan untuk mengenali dan mengelakkan bahaya mata yang boleh mereka hadapi di tempat kerja mereka.</p>\n<p>Topik yang diliputi dalam produk ini termasuk:</p>\n<ul>\n<li>Bagaimana untuk mengelakkan keletihan mata.</li>\n<li>Melindungi daripada zarah dan percikan.</li>\n<li>Mengelakkan bahaya sinaran.</li>\n<li>Apa yang perlu dilakukan sekiranya berlaku kecederaan mata.</li>\n<li>dan banyak lagi</li>\n</ul>\n<p>Masa: 14:29</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Keselamatan Mata: Dianggarkan 24 juta kecederaan mata berlaku di A.S. setiap tahun. Kira-kira 2,000 daripadanya akan berlaku hari ini, dan setiap hari selepas itu, semasa orang bekerja. Terlalu banyak daripada mereka akan menyebabkan mangsa kehilangan sebahagian atau keseluruhan penglihatan mereka. Tetapi kecederaan mata boleh dielakkan. Produk latihan SafetyMax tentang &#8220;Keselamatan Mata&#8221; memberikan pekerja maklumat yang mereka perlukan untuk mengenali dan [&hellip;]<a class=\"more-link\" href=\"https://my.mymaxtrax.com/5-keselamatan-mata-eye-safety-akan-datang-coming-soon/\">read more &raquo;</a></p>",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_genesis_hide_title": false,
+      "_genesis_hide_breadcrumbs": false,
+      "_genesis_hide_singular_image": false,
+      "_genesis_custom_body_class": "",
+      "_genesis_custom_post_class": "",
+      "_genesis_layout": ""
+    },
+    "categories": [
+      10
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/963"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/comments?post=963"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 6,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/963/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1058,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/963/revisions/1058"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/media?parent=963"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/categories?post=963"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/tags?post=963"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 951,
+    "date": "2020-08-16T15:01:46",
+    "date_gmt": "2020-08-16T07:01:46",
+    "guid": {
+      "rendered": "https://my.mymaxtrax.com/?p=951"
+    },
+    "modified": "2021-04-26T14:11:29",
+    "modified_gmt": "2021-04-26T06:11:29",
+    "slug": "pandemik-penjarakan-fizikal",
+    "status": "publish",
+    "type": "post",
+    "link": "https://my.mymaxtrax.com/pandemik-penjarakan-fizikal/",
+    "title": {
+      "rendered": "1(A). Flu Pandemik – RISIKO &amp; TANGGUNGJAWAB (Dikemas Kini Dengan Penjarakan Fizikal) **"
+    },
+    "content": {
+      "rendered": "<div id='vdo20160313versASE323NtWOIRmp9rNDrw3URxKqO5u9zJAek9tKxS6Ke7xoklvvpw' style='height:auto;width:1280px;max-width:100%' ></div><script>(function(v,i,d,e,o){v[o]=v[o]||{}; v[o].add = v[o].add || function V(a){(v[o].d=v[o].d||[]).push(a);};if(!v[o].l) { v[o].l=1*new Date(); a=i.createElement(d), m=i.getElementsByTagName(d)[0];a.async=1; a.src=e; m.parentNode.insertBefore(a,m);}})(window,document,'script','https://d1z78r8i505acl.cloudfront.net/playerAssets/1.6.10/vdo.js','vdo');vdo.add({otp: '20160313versASE323NtWOIRmp9rNDrw3URxKqO5u9zJAek9tKxS6Ke7xoklvvpw',playbackInfo: 'eyJ2aWRlb0lkIjoiOWY2YWM4MmQ0ZTI2NDdkNjg1OTllYWQzMzhmZGRiNzcifQ==',theme: '9111e0056d664282b368c5558a36f32a',plugins: [{name: 'keyboard',options: {preset: 'default',bindings: {'Left' : (player) => player.seek(player.currentTime - 15),'Right' : (player) => player.seek(player.currentTime + 15),},}}],container: document.querySelector('#vdo20160313versASE323NtWOIRmp9rNDrw3URxKqO5u9zJAek9tKxS6Ke7xoklvvpw'),});</script>\n<p><strong>Pandemik influenza</strong> boleh meyerang pada bila-bila masa dan di mana sahaja.</p>\n<p>Dengan adanya pengangkutan global moden yang berpatutan dan tersedia kepada semua orang, penyebaran penyakit adalah lebih pantas daripada sebelumnya seperti wabak Koronavirus terkini, COVID-19.</p>\n<p>Video ini menekankan beberapa panduan daripada kedua-dua Rancangan Kesediaan Pandemik Influenza Kebangsaan Kementerian Kesihatan dan Pertubuhan Kesihatan Sedunia.</p>\n<p>Bahagian-bahagian yang dibincangkan:</p>\n<p><strong>1. KEBERSIHAN</strong></p>\n<p>&#8211; Bila dan bagaimana untuk membasuh tangan anda menggunakan Peraturan 20 Saat<br />\n&#8211; Elak memegang muka jika tangan anda belum dibasuh<br />\n&#8211; Memastikan tempat kerja bersih – Bagaimana dan Bila<br />\n&#8211; Melupuskan tisu, pengelap disinfektan atau topeng muka</p>\n<p><strong>2. PENJAGAAN DIRI</strong></p>\n<p>&#8211; Dapatkan rawatan segera jika anda mengalami gejala seperti demam atau batuk<br />\n&#8211; Pakai topeng muka jika anda mempunyai gejala untuk mengelakkan orang lain daripada terjangkit.<br />\n&#8211; Jika boleh, jangan pergi bekerja dan elakkan tempat sesak.<br />\n&#8211; Jika salah seorang ahli keluarga anda tidak sihat, elak pergi bekerja dengan bekerja dari rumah.<br />\n&#8211; Makan secara sihat, minum air yang banyak, elakkan tembakau.</p>\n<p><strong>3. PENJARAKAN FIZIKAL</strong></p>\n<p>&#8211; Jarak fizikal satu meter antara individu boleh berkesan untuk mencegah penyebaran penyakit.<br />\n&#8211; Jika mampu, ubah cara kerja anda.<br />\n&#8211; Atur waktu makan untuk mencegah kesesakan di cafeteria dan ruang makan.<br />\n&#8211; Elak ke tempat sesak</p>\n<p><strong>4. TANGGUNGJAWAB SOSIAL</strong></p>\n<p>Sentiasa peka terhadap kumpulan berisiko tinggi untuk komplikasi teruk daripada selsema.<br />\n&#8211; Warga berumur 65 tahun dan ke atas, kanak-kanak kecil di bawah dua tahun, individu dengan keadaan perubatan, dan wanita mengandung</p>\n<p><strong>5. KERJASAMA</strong></p>\n<p>Bekerjasama dengan semua arahan agensi Kerajaan dan Tempat kerja seperti<br />\n&#8211; Pengambilan suhu harian<br />\n&#8211; Pembersihan teliti<br />\n&#8211; Kawalan Pergerakan</p>\n<p><strong>Masa: 6:30 </strong></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Pandemik influenza boleh meyerang pada bila-bila masa dan di mana sahaja. Dengan adanya pengangkutan global moden yang berpatutan dan tersedia kepada semua orang, penyebaran penyakit adalah lebih pantas daripada sebelumnya seperti wabak Koronavirus terkini, COVID-19. Video ini menekankan beberapa panduan daripada kedua-dua Rancangan Kesediaan Pandemik Influenza Kebangsaan Kementerian Kesihatan dan Pertubuhan Kesihatan Sedunia. Bahagian-bahagian yang dibincangkan: 1. KEBERSIHAN &#8211; Bila [&hellip;]<a class=\"more-link\" href=\"https://my.mymaxtrax.com/pandemik-penjarakan-fizikal/\">read more &raquo;</a></p>",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_genesis_hide_title": false,
+      "_genesis_hide_breadcrumbs": false,
+      "_genesis_hide_singular_image": false,
+      "_genesis_custom_body_class": "",
+      "_genesis_custom_post_class": "",
+      "_genesis_layout": ""
+    },
+    "categories": [
+      10
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/951"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/comments?post=951"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 6,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/951/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 994,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/951/revisions/994"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/media?parent=951"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/categories?post=951"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/tags?post=951"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 831,
+    "date": "2020-06-18T16:24:57",
+    "date_gmt": "2020-06-18T08:24:57",
+    "guid": {
+      "rendered": "https://my.mymaxtrax.com/?p=831"
+    },
+    "modified": "2021-04-26T11:40:07",
+    "modified_gmt": "2021-04-26T03:40:07",
+    "slug": "working-from-home",
+    "status": "publish",
+    "type": "post",
+    "link": "https://my.mymaxtrax.com/working-from-home/",
+    "title": {
+      "rendered": "2. Working From Home **"
+    },
+    "content": {
+      "rendered": "<div id='vdo20160313versASE3235aST1kwCKRKjoMxGz6gya3hzyBRUPsFuegSmQe8yOPKJFi' style='height:auto;width:1280px;max-width:100%' ></div><script>(function(v,i,d,e,o){v[o]=v[o]||{}; v[o].add = v[o].add || function V(a){(v[o].d=v[o].d||[]).push(a);};if(!v[o].l) { v[o].l=1*new Date(); a=i.createElement(d), m=i.getElementsByTagName(d)[0];a.async=1; a.src=e; m.parentNode.insertBefore(a,m);}})(window,document,'script','https://d1z78r8i505acl.cloudfront.net/playerAssets/1.6.10/vdo.js','vdo');vdo.add({otp: '20160313versASE3235aST1kwCKRKjoMxGz6gya3hzyBRUPsFuegSmQe8yOPKJFi',playbackInfo: 'eyJ2aWRlb0lkIjoiZTk0MzZmZjQ5YzAzNDdlZmIwZDYzNDkwNTczYjM5OGYifQ==',theme: '9111e0056d664282b368c5558a36f32a',plugins: [{name: 'keyboard',options: {preset: 'default',bindings: {'Left' : (player) => player.seek(player.currentTime - 15),'Right' : (player) => player.seek(player.currentTime + 15),},}}],container: document.querySelector('#vdo20160313versASE3235aST1kwCKRKjoMxGz6gya3hzyBRUPsFuegSmQe8yOPKJFi'),});</script>\n<p><strong>Working From Home</strong></p>\n<p>Working from home might look like a pretty easy way to work, until you have to try it out for yourself.</p>\n<p>The COVID-19 quarantine has shown everyone that working from home can present some serious challenges.</p>\n<p>SafetyMax’s new “Working From Home” video discuss these challenges and what people can do to meet them.</p>\n<p>Topics covered in these products include:</p>\n<p>• Creating a home workspace.<br />\n• Structuring your work day.<br />\n• Managing your time.<br />\n• Maintaining personal wellness.<br />\n• and more.</p>\n<p><strong>Time: 13:30</strong></p>\n<p>General Safety Titles</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Working From Home Working from home might look like a pretty easy way to work, until you have to try it out for yourself. The COVID-19 quarantine has shown everyone that working from home can present some serious challenges. SafetyMax’s new “Working From Home” video discuss these challenges and what people can do to meet them. Topics covered in these [&hellip;]<a class=\"more-link\" href=\"https://my.mymaxtrax.com/working-from-home/\">read more &raquo;</a></p>",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_genesis_hide_title": false,
+      "_genesis_hide_breadcrumbs": false,
+      "_genesis_hide_singular_image": false,
+      "_genesis_custom_body_class": "",
+      "_genesis_custom_post_class": "",
+      "_genesis_layout": ""
+    },
+    "categories": [
+      4
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/831"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/comments?post=831"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 6,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/831/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 987,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/831/revisions/987"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/media?parent=831"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/categories?post=831"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/tags?post=831"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 826,
+    "date": "2020-05-29T11:30:25",
+    "date_gmt": "2020-05-29T03:30:25",
+    "guid": {
+      "rendered": "https://my.mymaxtrax.com/?p=826"
+    },
+    "modified": "2021-08-04T10:15:48",
+    "modified_gmt": "2021-08-04T02:15:48",
+    "slug": "pandemic-flu",
+    "status": "publish",
+    "type": "post",
+    "link": "https://my.mymaxtrax.com/pandemic-flu/",
+    "title": {
+      "rendered": "1. Pandemic Flu &#8211; Risks &#038; Responsibilities (Bahasa Title Available)"
+    },
+    "content": {
+      "rendered": "<div id='vdo20160313versASE323xHHjuyKqMXkOS4hj6mCHANEufQBtPBHo62RJBFXbWyY8hV' style='height:auto;width:1280px;max-width:100%' ></div><script>(function(v,i,d,e,o){v[o]=v[o]||{}; v[o].add = v[o].add || function V(a){(v[o].d=v[o].d||[]).push(a);};if(!v[o].l) { v[o].l=1*new Date(); a=i.createElement(d), m=i.getElementsByTagName(d)[0];a.async=1; a.src=e; m.parentNode.insertBefore(a,m);}})(window,document,'script','https://d1z78r8i505acl.cloudfront.net/playerAssets/1.6.10/vdo.js','vdo');vdo.add({otp: '20160313versASE323xHHjuyKqMXkOS4hj6mCHANEufQBtPBHo62RJBFXbWyY8hV',playbackInfo: 'eyJ2aWRlb0lkIjoiNzBkM2E4MzdkNTkyNGZmMGI1MjA4ZmM3Zjg0NzYyMWUifQ==',theme: '9111e0056d664282b368c5558a36f32a',plugins: [{name: 'keyboard',options: {preset: 'default',bindings: {'Left' : (player) => player.seek(player.currentTime - 15),'Right' : (player) => player.seek(player.currentTime + 15),},}}],container: document.querySelector('#vdo20160313versASE323xHHjuyKqMXkOS4hj6mCHANEufQBtPBHo62RJBFXbWyY8hV'),});</script>\n<p class=\"western\"><b>Pandemic Flu – RISKS &amp; RESPONSIBILITIES</b></p>\n<p class=\"western\">Influenza pandemics can strike anytime and anywhere.</p>\n<p class=\"western\">With modern global transport being affordable and readily available to anyone, the spread of disease is faster than ever before like the recent Coronavirus outbreak, COVID-19.</p>\n<p class=\"western\">This video by SafetyMax will highlight some guidelines from both the Ministry of Health and the World Health Organisation.</p>\n<p>The areas that will be covered:</p>\n<p><b>1. HYGIENE</b></p>\n<p class=\"western\">&#8211; When and how to wash your hands using the 20 Second Rule<br />\n&#8211; Avoid touching your face if your hands are not washed<br />\n&#8211; Keeping workplace clean – How and When<br />\n&#8211; Disposing of tissues, disinfectant wipes or face masks</p>\n<p class=\"western\"><b>2. SELF-CARE</b></p>\n<p class=\"western\">&#8211; Seek medical attention if you experience symptoms such as a fever or cough<br />\n&#8211; Wear a face mask if you have symptoms to prevent others from being infected.<br />\n&#8211; If possible, do not go to work and avoid crowded areas.<br />\n&#8211; If a member of your household is ill, avoid going to work as well and work from home.<br />\n&#8211; Eat healthily, drink lots of fluids, avoid tobacco.</p>\n<p class=\"western\"><b>3. SOCIAL DISTANCING</b></p>\n<p class=\"western\">&#8211; Physical distance between individuals can be effective in preventing the spread of disease.<br />\n&#8211; Where possible, try to change the way you work.<br />\n&#8211; Stagger meal hours to prevent overcrowding of cafeterias and pantries.</p>\n<p class=\"western\"><b>4. SOCIAL RESPONSIBILITY</b></p>\n<p>Be aware of high risk group for severe complications from the flu. They are<br />\n&#8211; People 65 years of age and older,<br />\n&#8211; Young children below two years old, individuals with medical conditions,<br />\n&#8211; Pregnant women</p>\n<p class=\"western\"><b>5. COOPERATION</b></p>\n<p class=\"western\">Cooperate with all Government agencies and Workplace orders such as<br />\n&#8211; Daily temperature taking<br />\n&#8211; Thorough cleaning<br />\n&#8211; Restriction of Movement such as Stay Home Notice (SHN) and Overseas Travel Ban Orders</p>\n<p>Time: 5:25 Minutes</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Pandemic Flu – RISKS &amp; RESPONSIBILITIES Influenza pandemics can strike anytime and anywhere. With modern global transport being affordable and readily available to anyone, the spread of disease is faster than ever before like the recent Coronavirus outbreak, COVID-19. This video by SafetyMax will highlight some guidelines from both the Ministry of Health and the World Health Organisation. The areas [&hellip;]<a class=\"more-link\" href=\"https://my.mymaxtrax.com/pandemic-flu/\">read more &raquo;</a></p>",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_genesis_hide_title": false,
+      "_genesis_hide_breadcrumbs": false,
+      "_genesis_hide_singular_image": false,
+      "_genesis_custom_body_class": "",
+      "_genesis_custom_post_class": "",
+      "_genesis_layout": ""
+    },
+    "categories": [
+      4
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/826"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/comments?post=826"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 6,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/826/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1017,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/826/revisions/1017"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/media?parent=826"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/categories?post=826"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/tags?post=826"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 809,
+    "date": "2020-03-04T13:10:27",
+    "date_gmt": "2020-03-04T05:10:27",
+    "guid": {
+      "rendered": "https://my.mymaxtrax.com/?p=809"
+    },
+    "modified": "2021-04-26T14:20:06",
+    "modified_gmt": "2021-04-26T06:20:06",
+    "slug": "pandemik",
+    "status": "publish",
+    "type": "post",
+    "link": "https://my.mymaxtrax.com/pandemik/",
+    "title": {
+      "rendered": "1.  Flu Pandemik &#8211; Risiko Dan Tanggungjawab (Pandemic Flu &#8211; Risks &amp; Responsibilities) **"
+    },
+    "content": {
+      "rendered": "<div id='vdo20160313versASE323RauuwnbKBqr9TLZ3NvKqcQj77GwcdMoD4AUULLG7rkkob4' style='height:auto;width:1280px;max-width:100%' ></div><script>(function(v,i,d,e,o){v[o]=v[o]||{}; v[o].add = v[o].add || function V(a){(v[o].d=v[o].d||[]).push(a);};if(!v[o].l) { v[o].l=1*new Date(); a=i.createElement(d), m=i.getElementsByTagName(d)[0];a.async=1; a.src=e; m.parentNode.insertBefore(a,m);}})(window,document,'script','https://d1z78r8i505acl.cloudfront.net/playerAssets/1.6.10/vdo.js','vdo');vdo.add({otp: '20160313versASE323RauuwnbKBqr9TLZ3NvKqcQj77GwcdMoD4AUULLG7rkkob4',playbackInfo: 'eyJ2aWRlb0lkIjoiMWQzYTM0MDhlYzllNDJhZDhmNzE1MjNiNzg4ZDk5M2IifQ==',theme: '9111e0056d664282b368c5558a36f32a',plugins: [{name: 'keyboard',options: {preset: 'default',bindings: {'Left' : (player) => player.seek(player.currentTime - 15),'Right' : (player) => player.seek(player.currentTime + 15),},}}],container: document.querySelector('#vdo20160313versASE323RauuwnbKBqr9TLZ3NvKqcQj77GwcdMoD4AUULLG7rkkob4'),});</script>\n<p><strong>FLU PANDEMIK – RISIKO &amp; TANGGUNGJAWAB </strong></p>\n<p>Pandemik influenza boleh meyerang pada bila-bila masa dan di mana sahaja.</p>\n<p>Dengan adanya pengangkutan global moden yang berpatutan dan tersedia kepada semua orang, penyebaran penyakit adalah lebih pantas daripada sebelumnya seperti wabak Koronavirus terkini, COVID-19.</p>\n<p>Video ini menekankan beberapa panduan daripada kedua-dua <strong>Rancangan Kesediaan Pandemik Influenza Kebangsaan Kementerian Kesihatan dan Pertubuhan Kesihatan Sedunia.</strong></p>\n<p>Bahagian-bahagian yang dibincangkan:</p>\n<p><strong>1. KEBERSIHAN</strong></p>\n<p>&#8211; Bila dan bagaimana untuk membasuh tangan anda menggunakan Peraturan 20 Saat<br />\n&#8211; Elak memegang muka jika tangan anda belum dibasuh<br />\n&#8211; Memastikan tempat kerja bersih – Bagaimana dan Bila<br />\n&#8211; Melupuskan tisu, pengelap disinfektan atau topeng muka</p>\n<p><strong>2. PENJAGAAN DIRI</strong></p>\n<p>&#8211; Dapatkan rawatan segera jika anda mengalami gejala seperti demam atau batuk<br />\n&#8211; Pakai topeng muka jika anda mempunyai gejala untuk mengelakkan orang lain daripada terjangkit.<br />\n&#8211; Jika boleh, jangan pergi bekerja dan elakkan tempat sesak.<br />\n&#8211; Jika salah seorang ahli keluarga anda tidak sihat, elak pergi bekerja dengan bekerja dari rumah.<br />\n&#8211; Makan secara sihat, minum air yang banyak, elakkan tembakau.</p>\n<p><strong>3. PENJARAKAN SOSIAL</strong></p>\n<p>&#8211; Jarak fizikal antara individu boleh berkesan untuk mencegah penyebaran penyakit.<br />\n&#8211; Jika mampu, ubah cara kerja anda.<br />\n&#8211; Atur waktu makan untuk mencegah kesesakan di cafeteria dan ruang makan.</p>\n<p><strong>4. TANGGUNGJAWAB SOSIAL</strong></p>\n<p>Sentiasa peka terhadap kumpulan berisiko tinggi untuk komplikasi teruk daripada selsema.<br />\n&#8211; Warga berumur 65 tahun dan ke atas, kanak-kanak kecil di bawah dua tahun, individu dengan keadaan perubatan, dan wanita mengandung</p>\n<p><strong>5. KERJASAMA</strong></p>\n<p>Bekerjasama dengan semua arahan agensi Kerajaan dan Tempat kerja seperti<br />\n&#8211; Pengambilan suhu harian<br />\n&#8211; Pembersihan teliti<br />\n&#8211; Kawalan Pergerakan</p>\n<p><strong>Masa: 6:30 Minit</strong></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>FLU PANDEMIK – RISIKO &amp; TANGGUNGJAWAB Pandemik influenza boleh meyerang pada bila-bila masa dan di mana sahaja. Dengan adanya pengangkutan global moden yang berpatutan dan tersedia kepada semua orang, penyebaran penyakit adalah lebih pantas daripada sebelumnya seperti wabak Koronavirus terkini, COVID-19. Video ini menekankan beberapa panduan daripada kedua-dua Rancangan Kesediaan Pandemik Influenza Kebangsaan Kementerian Kesihatan dan Pertubuhan Kesihatan Sedunia. Bahagian-bahagian [&hellip;]<a class=\"more-link\" href=\"https://my.mymaxtrax.com/pandemik/\">read more &raquo;</a></p>",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_genesis_hide_title": false,
+      "_genesis_hide_breadcrumbs": false,
+      "_genesis_hide_singular_image": false,
+      "_genesis_custom_body_class": "",
+      "_genesis_custom_post_class": "",
+      "_genesis_layout": ""
+    },
+    "categories": [
+      10
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/809"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/comments?post=809"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 13,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/809/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 995,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/809/revisions/995"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/media?parent=809"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/categories?post=809"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/tags?post=809"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 801,
+    "date": "2020-02-05T08:27:39",
+    "date_gmt": "2020-02-05T00:27:39",
+    "guid": {
+      "rendered": "https://my.mymaxtrax.com/?p=801"
+    },
+    "modified": "2021-04-26T14:34:31",
+    "modified_gmt": "2021-04-26T06:34:31",
+    "slug": "keselamatan-tangan",
+    "status": "publish",
+    "type": "post",
+    "link": "https://my.mymaxtrax.com/keselamatan-tangan/",
+    "title": {
+      "rendered": "4. Keselamatan Tangan, Pergelangan Tangan Dan Jari (Hand, Wrist &amp; Finger Safety) **"
+    },
+    "content": {
+      "rendered": "<div id='vdo20160313versASE323Cu8gVHXP951N6DRauxZuY0FBd1oYiIYwufEz0MyMvLtAsM' style='height:auto;width:1280px;max-width:100%' ></div><script>(function(v,i,d,e,o){v[o]=v[o]||{}; v[o].add = v[o].add || function V(a){(v[o].d=v[o].d||[]).push(a);};if(!v[o].l) { v[o].l=1*new Date(); a=i.createElement(d), m=i.getElementsByTagName(d)[0];a.async=1; a.src=e; m.parentNode.insertBefore(a,m);}})(window,document,'script','https://d1z78r8i505acl.cloudfront.net/playerAssets/1.6.10/vdo.js','vdo');vdo.add({otp: '20160313versASE323Cu8gVHXP951N6DRauxZuY0FBd1oYiIYwufEz0MyMvLtAsM',playbackInfo: 'eyJ2aWRlb0lkIjoiZDc1YmM0YTc1NmIzNDZkYmJmNWI0M2YyYzg1YzU4N2MifQ==',theme: '9111e0056d664282b368c5558a36f32a',plugins: [{name: 'keyboard',options: {preset: 'default',bindings: {'Left' : (player) => player.seek(player.currentTime - 15),'Right' : (player) => player.seek(player.currentTime + 15),},}}],container: document.querySelector('#vdo20160313versASE323Cu8gVHXP951N6DRauxZuY0FBd1oYiIYwufEz0MyMvLtAsM'),});</script>\n<p><strong>Keselamatan Tangan, Pergelangan Tangan dan Jari:</strong></p>\n<p>Tangan pekerja merupakan alat paling penting untuk mereka. Setiap hari tangan, pergelangan tangan dan jari mereka terdedah kepada pelbagai bahaya, termasuk calar, lebam, lecur dan kecederaan teruk.</p>\n<p>Dalam satu kajian di Malaysia, hampir 25% daripada semua kemalangan industri mengakibatkan kecederaan tangan yang mana 35% daripadanya mengalami fraktur terbuka.</p>\n<p>Produk latihan SafetyMax tentang “Keselamatan Tangan, Pergelangan Tangan dan Jari” menyemak bahaya yang tangan, pergelangan tangan dan jari pekerja boleh berlaku di tempat kerja mereka, dan menunjukkan bagaimana mereka boleh menggunakan peralatan dan amalan kerja selamat untuk mencegah kecederaan.</p>\n<p>Topik yang disentuh dalam produk berikut termasuk:</p>\n<p>&#8211; Reka bentuk dan struktur tangan.<br />\n&#8211; Amalan kerja selamat.<br />\n&#8211; Mencegah kecederaan ergonomik.<br />\n&#8211; Memilih peralatan dan menggunakannya dengan selamat.<br />\n&#8211; Memilih sarung tangan terbaik untuk tugas.<br />\ndan banyak lagi.</p>\n<p>Masa: 15 minit</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Keselamatan Tangan, Pergelangan Tangan dan Jari: Tangan pekerja merupakan alat paling penting untuk mereka. Setiap hari tangan, pergelangan tangan dan jari mereka terdedah kepada pelbagai bahaya, termasuk calar, lebam, lecur dan kecederaan teruk. Dalam satu kajian di Malaysia, hampir 25% daripada semua kemalangan industri mengakibatkan kecederaan tangan yang mana 35% daripadanya mengalami fraktur terbuka. Produk latihan SafetyMax tentang “Keselamatan Tangan, [&hellip;]<a class=\"more-link\" href=\"https://my.mymaxtrax.com/keselamatan-tangan/\">read more &raquo;</a></p>",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "sticky": false,
+    "template": "",
+    "format": "standard",
+    "meta": {
+      "_genesis_hide_title": false,
+      "_genesis_hide_breadcrumbs": false,
+      "_genesis_hide_singular_image": false,
+      "_genesis_custom_body_class": "",
+      "_genesis_custom_post_class": "",
+      "_genesis_layout": ""
+    },
+    "categories": [
+      10
+    ],
+    "tags": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/801"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/comments?post=801"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 6,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/801/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1001,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/posts/801/revisions/1001"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/media?parent=801"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/categories?post=801"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://my.mymaxtrax.com/wp-json/wp/v2/tags?post=801"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
